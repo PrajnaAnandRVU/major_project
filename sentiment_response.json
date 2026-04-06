@@ -1,0 +1,782 @@
+{
+  "key_findings": [
+    "Error analyzing sentiment"
+  ],
+  "overall_sentiment": {
+    "label": "Neutral",
+    "score": 0
+  },
+  "pnl_growth": [],
+  "recommendations": [
+    "Unable to provide recommendations at this time"
+  ],
+  "sentiment_timeline": [
+    {
+      "label": "Neutral",
+      "price": 100.0,
+      "score": 0.0,
+      "timestamp": "2015-05"
+    },
+    {
+      "label": "Bullish",
+      "price": 101.0,
+      "score": 0.5,
+      "timestamp": "2015-06"
+    },
+    {
+      "label": "Bullish",
+      "price": 102.73,
+      "score": 0.87,
+      "timestamp": "2015-07"
+    },
+    {
+      "label": "Bullish",
+      "price": 104.73,
+      "score": 1.0,
+      "timestamp": "2015-08"
+    },
+    {
+      "label": "Bullish",
+      "price": 106.46,
+      "score": 0.87,
+      "timestamp": "2015-09"
+    },
+    {
+      "label": "Bullish",
+      "price": 107.46,
+      "score": 0.5,
+      "timestamp": "2015-10"
+    },
+    {
+      "label": "Neutral",
+      "price": 107.46,
+      "score": 0.0,
+      "timestamp": "2015-11"
+    },
+    {
+      "label": "Bearish",
+      "price": 106.46,
+      "score": -0.5,
+      "timestamp": "2015-12"
+    },
+    {
+      "label": "Bearish",
+      "price": 104.73,
+      "score": -0.87,
+      "timestamp": "2016-01"
+    },
+    {
+      "label": "Bearish",
+      "price": 102.73,
+      "score": -1.0,
+      "timestamp": "2016-02"
+    },
+    {
+      "label": "Bearish",
+      "price": 101.0,
+      "score": -0.87,
+      "timestamp": "2016-03"
+    },
+    {
+      "label": "Bearish",
+      "price": 100.0,
+      "score": -0.5,
+      "timestamp": "2016-04"
+    },
+    {
+      "label": "Neutral",
+      "price": 100.0,
+      "score": -0.0,
+      "timestamp": "2016-05"
+    },
+    {
+      "label": "Bullish",
+      "price": 101.0,
+      "score": 0.5,
+      "timestamp": "2016-06"
+    },
+    {
+      "label": "Bullish",
+      "price": 102.73,
+      "score": 0.87,
+      "timestamp": "2016-07"
+    },
+    {
+      "label": "Bullish",
+      "price": 104.73,
+      "score": 1.0,
+      "timestamp": "2016-08"
+    },
+    {
+      "label": "Bullish",
+      "price": 106.46,
+      "score": 0.87,
+      "timestamp": "2016-09"
+    },
+    {
+      "label": "Bullish",
+      "price": 107.46,
+      "score": 0.5,
+      "timestamp": "2016-10"
+    },
+    {
+      "label": "Neutral",
+      "price": 107.46,
+      "score": 0.0,
+      "timestamp": "2016-11"
+    },
+    {
+      "label": "Bearish",
+      "price": 106.46,
+      "score": -0.5,
+      "timestamp": "2016-12"
+    },
+    {
+      "label": "Bearish",
+      "price": 104.73,
+      "score": -0.87,
+      "timestamp": "2017-01"
+    },
+    {
+      "label": "Bearish",
+      "price": 102.73,
+      "score": -1.0,
+      "timestamp": "2017-02"
+    },
+    {
+      "label": "Bearish",
+      "price": 101.0,
+      "score": -0.87,
+      "timestamp": "2017-03"
+    },
+    {
+      "label": "Bearish",
+      "price": 100.0,
+      "score": -0.5,
+      "timestamp": "2017-04"
+    },
+    {
+      "label": "Neutral",
+      "price": 100.0,
+      "score": -0.0,
+      "timestamp": "2017-05"
+    },
+    {
+      "label": "Bullish",
+      "price": 101.0,
+      "score": 0.5,
+      "timestamp": "2017-06"
+    },
+    {
+      "label": "Bullish",
+      "price": 102.73,
+      "score": 0.87,
+      "timestamp": "2017-07"
+    },
+    {
+      "label": "Bullish",
+      "price": 104.73,
+      "score": 1.0,
+      "timestamp": "2017-08"
+    },
+    {
+      "label": "Bullish",
+      "price": 106.46,
+      "score": 0.87,
+      "timestamp": "2017-09"
+    },
+    {
+      "label": "Bullish",
+      "price": 107.46,
+      "score": 0.5,
+      "timestamp": "2017-10"
+    },
+    {
+      "label": "Neutral",
+      "price": 107.46,
+      "score": 0.0,
+      "timestamp": "2017-11"
+    },
+    {
+      "label": "Bearish",
+      "price": 106.46,
+      "score": -0.5,
+      "timestamp": "2017-12"
+    },
+    {
+      "label": "Bearish",
+      "price": 104.73,
+      "score": -0.87,
+      "timestamp": "2018-01"
+    },
+    {
+      "label": "Bearish",
+      "price": 102.73,
+      "score": -1.0,
+      "timestamp": "2018-02"
+    },
+    {
+      "label": "Bearish",
+      "price": 101.0,
+      "score": -0.87,
+      "timestamp": "2018-03"
+    },
+    {
+      "label": "Bearish",
+      "price": 100.0,
+      "score": -0.5,
+      "timestamp": "2018-04"
+    },
+    {
+      "label": "Neutral",
+      "price": 100.0,
+      "score": -0.0,
+      "timestamp": "2018-05"
+    },
+    {
+      "label": "Bullish",
+      "price": 101.0,
+      "score": 0.5,
+      "timestamp": "2018-06"
+    },
+    {
+      "label": "Bullish",
+      "price": 102.73,
+      "score": 0.87,
+      "timestamp": "2018-07"
+    },
+    {
+      "label": "Bullish",
+      "price": 104.73,
+      "score": 1.0,
+      "timestamp": "2018-08"
+    },
+    {
+      "label": "Bullish",
+      "price": 106.46,
+      "score": 0.87,
+      "timestamp": "2018-09"
+    },
+    {
+      "label": "Bullish",
+      "price": 107.46,
+      "score": 0.5,
+      "timestamp": "2018-10"
+    },
+    {
+      "label": "Neutral",
+      "price": 107.46,
+      "score": 0.0,
+      "timestamp": "2018-11"
+    },
+    {
+      "label": "Bearish",
+      "price": 106.46,
+      "score": -0.5,
+      "timestamp": "2018-12"
+    },
+    {
+      "label": "Bearish",
+      "price": 104.73,
+      "score": -0.87,
+      "timestamp": "2019-01"
+    },
+    {
+      "label": "Bearish",
+      "price": 102.73,
+      "score": -1.0,
+      "timestamp": "2019-02"
+    },
+    {
+      "label": "Bearish",
+      "price": 101.0,
+      "score": -0.87,
+      "timestamp": "2019-03"
+    },
+    {
+      "label": "Bearish",
+      "price": 100.0,
+      "score": -0.5,
+      "timestamp": "2019-04"
+    },
+    {
+      "label": "Neutral",
+      "price": 100.0,
+      "score": -0.0,
+      "timestamp": "2019-05"
+    },
+    {
+      "label": "Bullish",
+      "price": 101.0,
+      "score": 0.5,
+      "timestamp": "2019-06"
+    },
+    {
+      "label": "Bullish",
+      "price": 102.73,
+      "score": 0.87,
+      "timestamp": "2019-07"
+    },
+    {
+      "label": "Bullish",
+      "price": 104.73,
+      "score": 1.0,
+      "timestamp": "2019-08"
+    },
+    {
+      "label": "Bullish",
+      "price": 106.46,
+      "score": 0.87,
+      "timestamp": "2019-09"
+    },
+    {
+      "label": "Bullish",
+      "price": 107.46,
+      "score": 0.5,
+      "timestamp": "2019-10"
+    },
+    {
+      "label": "Neutral",
+      "price": 107.46,
+      "score": 0.0,
+      "timestamp": "2019-10"
+    },
+    {
+      "label": "Bearish",
+      "price": 106.46,
+      "score": -0.5,
+      "timestamp": "2019-11"
+    },
+    {
+      "label": "Bearish",
+      "price": 104.73,
+      "score": -0.87,
+      "timestamp": "2019-12"
+    },
+    {
+      "label": "Bearish",
+      "price": 102.73,
+      "score": -1.0,
+      "timestamp": "2020-01"
+    },
+    {
+      "label": "Bearish",
+      "price": 101.0,
+      "score": -0.87,
+      "timestamp": "2020-02"
+    },
+    {
+      "label": "Bearish",
+      "price": 100.0,
+      "score": -0.5,
+      "timestamp": "2020-03"
+    },
+    {
+      "label": "Neutral",
+      "price": 100.0,
+      "score": -0.0,
+      "timestamp": "2020-04"
+    },
+    {
+      "label": "Bullish",
+      "price": 101.0,
+      "score": 0.5,
+      "timestamp": "2020-05"
+    },
+    {
+      "label": "Bullish",
+      "price": 102.73,
+      "score": 0.87,
+      "timestamp": "2020-06"
+    },
+    {
+      "label": "Bullish",
+      "price": 104.73,
+      "score": 1.0,
+      "timestamp": "2020-07"
+    },
+    {
+      "label": "Bullish",
+      "price": 106.46,
+      "score": 0.87,
+      "timestamp": "2020-08"
+    },
+    {
+      "label": "Bullish",
+      "price": 107.46,
+      "score": 0.5,
+      "timestamp": "2020-09"
+    },
+    {
+      "label": "Neutral",
+      "price": 107.46,
+      "score": 0.0,
+      "timestamp": "2020-10"
+    },
+    {
+      "label": "Bearish",
+      "price": 106.46,
+      "score": -0.5,
+      "timestamp": "2020-11"
+    },
+    {
+      "label": "Bearish",
+      "price": 104.73,
+      "score": -0.87,
+      "timestamp": "2020-12"
+    },
+    {
+      "label": "Bearish",
+      "price": 102.73,
+      "score": -1.0,
+      "timestamp": "2021-01"
+    },
+    {
+      "label": "Bearish",
+      "price": 101.0,
+      "score": -0.87,
+      "timestamp": "2021-02"
+    },
+    {
+      "label": "Bearish",
+      "price": 100.0,
+      "score": -0.5,
+      "timestamp": "2021-03"
+    },
+    {
+      "label": "Neutral",
+      "price": 100.0,
+      "score": -0.0,
+      "timestamp": "2021-04"
+    },
+    {
+      "label": "Bullish",
+      "price": 101.0,
+      "score": 0.5,
+      "timestamp": "2021-05"
+    },
+    {
+      "label": "Bullish",
+      "price": 102.73,
+      "score": 0.87,
+      "timestamp": "2021-06"
+    },
+    {
+      "label": "Bullish",
+      "price": 104.73,
+      "score": 1.0,
+      "timestamp": "2021-07"
+    },
+    {
+      "label": "Bullish",
+      "price": 106.46,
+      "score": 0.87,
+      "timestamp": "2021-08"
+    },
+    {
+      "label": "Bullish",
+      "price": 107.46,
+      "score": 0.5,
+      "timestamp": "2021-09"
+    },
+    {
+      "label": "Neutral",
+      "price": 107.46,
+      "score": -0.0,
+      "timestamp": "2021-10"
+    },
+    {
+      "label": "Bearish",
+      "price": 106.46,
+      "score": -0.5,
+      "timestamp": "2021-11"
+    },
+    {
+      "label": "Bearish",
+      "price": 104.73,
+      "score": -0.87,
+      "timestamp": "2021-12"
+    },
+    {
+      "label": "Bearish",
+      "price": 102.73,
+      "score": -1.0,
+      "timestamp": "2022-01"
+    },
+    {
+      "label": "Bearish",
+      "price": 101.0,
+      "score": -0.87,
+      "timestamp": "2022-02"
+    },
+    {
+      "label": "Bearish",
+      "price": 100.0,
+      "score": -0.5,
+      "timestamp": "2022-03"
+    },
+    {
+      "label": "Neutral",
+      "price": 100.0,
+      "score": -0.0,
+      "timestamp": "2022-04"
+    },
+    {
+      "label": "Bullish",
+      "price": 101.0,
+      "score": 0.5,
+      "timestamp": "2022-05"
+    },
+    {
+      "label": "Bullish",
+      "price": 102.73,
+      "score": 0.87,
+      "timestamp": "2022-06"
+    },
+    {
+      "label": "Bullish",
+      "price": 104.73,
+      "score": 1.0,
+      "timestamp": "2022-07"
+    },
+    {
+      "label": "Bullish",
+      "price": 106.46,
+      "score": 0.87,
+      "timestamp": "2022-08"
+    },
+    {
+      "label": "Bullish",
+      "price": 107.46,
+      "score": 0.5,
+      "timestamp": "2022-09"
+    },
+    {
+      "label": "Neutral",
+      "price": 107.46,
+      "score": 0.0,
+      "timestamp": "2022-10"
+    },
+    {
+      "label": "Bearish",
+      "price": 106.46,
+      "score": -0.5,
+      "timestamp": "2022-11"
+    },
+    {
+      "label": "Bearish",
+      "price": 104.73,
+      "score": -0.87,
+      "timestamp": "2022-12"
+    },
+    {
+      "label": "Bearish",
+      "price": 102.73,
+      "score": -1.0,
+      "timestamp": "2023-01"
+    },
+    {
+      "label": "Bearish",
+      "price": 101.0,
+      "score": -0.87,
+      "timestamp": "2023-02"
+    },
+    {
+      "label": "Bearish",
+      "price": 100.0,
+      "score": -0.5,
+      "timestamp": "2023-03"
+    },
+    {
+      "label": "Neutral",
+      "price": 100.0,
+      "score": -0.0,
+      "timestamp": "2023-04"
+    },
+    {
+      "label": "Bullish",
+      "price": 101.0,
+      "score": 0.5,
+      "timestamp": "2023-05"
+    },
+    {
+      "label": "Bullish",
+      "price": 102.73,
+      "score": 0.87,
+      "timestamp": "2023-06"
+    },
+    {
+      "label": "Bullish",
+      "price": 104.73,
+      "score": 1.0,
+      "timestamp": "2023-07"
+    },
+    {
+      "label": "Bullish",
+      "price": 106.46,
+      "score": 0.87,
+      "timestamp": "2023-08"
+    },
+    {
+      "label": "Bullish",
+      "price": 107.46,
+      "score": 0.5,
+      "timestamp": "2023-09"
+    },
+    {
+      "label": "Neutral",
+      "price": 107.46,
+      "score": -0.0,
+      "timestamp": "2023-10"
+    },
+    {
+      "label": "Bearish",
+      "price": 106.46,
+      "score": -0.5,
+      "timestamp": "2023-11"
+    },
+    {
+      "label": "Bearish",
+      "price": 104.73,
+      "score": -0.87,
+      "timestamp": "2023-12"
+    },
+    {
+      "label": "Bearish",
+      "price": 102.73,
+      "score": -1.0,
+      "timestamp": "2024-01"
+    },
+    {
+      "label": "Bearish",
+      "price": 101.0,
+      "score": -0.87,
+      "timestamp": "2024-02"
+    },
+    {
+      "label": "Bearish",
+      "price": 100.0,
+      "score": -0.5,
+      "timestamp": "2024-03"
+    },
+    {
+      "label": "Neutral",
+      "price": 100.0,
+      "score": -0.0,
+      "timestamp": "2024-04"
+    },
+    {
+      "label": "Bullish",
+      "price": 101.0,
+      "score": 0.5,
+      "timestamp": "2024-05"
+    },
+    {
+      "label": "Bullish",
+      "price": 102.73,
+      "score": 0.87,
+      "timestamp": "2024-06"
+    },
+    {
+      "label": "Bullish",
+      "price": 104.73,
+      "score": 1.0,
+      "timestamp": "2024-07"
+    },
+    {
+      "label": "Bullish",
+      "price": 106.46,
+      "score": 0.87,
+      "timestamp": "2024-08"
+    },
+    {
+      "label": "Bullish",
+      "price": 107.46,
+      "score": 0.5,
+      "timestamp": "2024-09"
+    },
+    {
+      "label": "Neutral",
+      "price": 107.46,
+      "score": 0.0,
+      "timestamp": "2024-10"
+    },
+    {
+      "label": "Bearish",
+      "price": 106.46,
+      "score": -0.5,
+      "timestamp": "2024-11"
+    },
+    {
+      "label": "Bearish",
+      "price": 104.73,
+      "score": -0.87,
+      "timestamp": "2024-12"
+    },
+    {
+      "label": "Bearish",
+      "price": 102.73,
+      "score": -1.0,
+      "timestamp": "2025-01"
+    },
+    {
+      "label": "Bearish",
+      "price": 101.0,
+      "score": -0.87,
+      "timestamp": "2025-02"
+    },
+    {
+      "label": "Bearish",
+      "price": 100.0,
+      "score": -0.5,
+      "timestamp": "2025-03"
+    }
+  ],
+  "top_news": [
+    {
+      "content": "\u201cFew outsiders think new stores, no matter how well-conceived, will get Apple back on the hot-growth path\u2026 Maybe it\u2019s time Steve Jobs stopped thinking quite so differently.\u201d \u2014BusinessWeek, May 21, 2001 \u00a0 24 years to the day \u2014 May 21, 2001 \u2014 a Businessweek1 co\u2026",
+      "credibility": 3,
+      "sentiment": 0,
+      "source": "Ritholtz.com",
+      "timestamp": "2025-05-21T12:00:18Z",
+      "title": "\u201cSorry, Steve: Here\u2019s Why Apple Stores Won\u2019t Work\u201d",
+      "url": "https://ritholtz.com/2025/05/sorry-steve/"
+    },
+    {
+      "content": "In This Article:\nKey Points\n-\nNvidia, Apple, and Microsoft are the three most valuable stocks in the world today.\n-\nIn five years, however, Amazon could overtake them due to the enormous opportunities it possesses in artificial intelligence.\nNvidia (NASDAQ: N\u2026",
+      "credibility": 3,
+      "sentiment": 0,
+      "source": "Biztoc.com",
+      "timestamp": "2025-05-21T11:03:19Z",
+      "title": "Prediction: This Artificial Intelligence Stock Will Be More Valuable Than Nvidia, Apple, and Microsoft in 5 Years",
+      "url": "https://biztoc.com/x/a78c401fe63e0acf"
+    },
+    {
+      "content": "It's not clear if Tesla's next mission has the moral gravity or commercial urgency to repeat its earlier success.",
+      "credibility": 3,
+      "sentiment": 0,
+      "source": "Yahoo Entertainment",
+      "timestamp": "2025-05-21T10:00:43Z",
+      "title": "What\u2019s next for Tesla as Musk enters a new phase",
+      "url": "https://finance.yahoo.com/news/whats-next-for-tesla-as-musk-enters-a-new-phase-100043769.html"
+    },
+    {
+      "content": "Apple, Amazon.com, Alibaba Group, Spotify Technology, and Walt Disney are the five Music stocks to watch today, according to MarketBeat\u2019s stock screener tool. Music stocks are shares of publicly traded companies that produce, distribute or monetize music cont\u2026",
+      "credibility": 3,
+      "sentiment": 0,
+      "source": "ETF Daily News",
+      "timestamp": "2025-05-21T09:22:47Z",
+      "title": "Music Stocks To Consider \u2013 May 19th",
+      "url": "https://www.etfdailynews.com/2025/05/21/music-stocks-to-consider-may-19th/"
+    },
+    {
+      "content": "SoundView Advisors Inc. bought a new position in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) during the 4th quarter, Holdings Channel reports. The fund bought 7,172 shares of the iPhone maker\u2019s stock, valued at approximately $1,795,000. Apple comprises 0.7% of Sou\u2026",
+      "credibility": 3,
+      "sentiment": 0,
+      "source": "ETF Daily News",
+      "timestamp": "2025-05-21T07:40:52Z",
+      "title": "7,172 Shares in Apple Inc. (NASDAQ:AAPL) Bought by SoundView Advisors Inc.",
+      "url": "https://www.etfdailynews.com/2025/05/21/7172-shares-in-apple-inc-nasdaqaapl-bought-by-soundview-advisors-inc/"
+    }
+  ]
+}
